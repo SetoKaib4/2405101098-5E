@@ -20,8 +20,8 @@ selama satu semester.
 
 | Pertemuan | Topik | Source Code dan Screenshot |
 |---|---|---|
-| 01 | [MODUL 01 HTML](./pertemuan-01/) | [modul-01](./pertemuan-01/) |
-| 02 | [MODUL 02 Semantic HTML](./pertemuan-02/) | [modul-02](./pertemuan-02/) |
-| 03 | [MODUL 03 Form HTML](./pertemuan-03/) | [modul-03](./pertemuan-03/) |
+| 01 | [MODUL 01 HTML](./modul-01/) | [modul-01](./modul-01/) |
+| 02 | [MODUL 02 Semantic HTML](./modul-02/) | [modul-02](./modul-02/) |
+| 03 | [MODUL 03 Form HTML](./modul-03/) | [modul-03](./modul-03/) |
 
 ## Referensi
