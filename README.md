@@ -20,7 +20,7 @@ selama satu semester.
 
 | Pertemuan | Topik | Source Code dan Screenshot |
 |---|---|---|
-| 01 | [MODUL 01 HTML](./2405101098-FEBRIYAN-NUGROHO/modul-01/) | [modul-01](./2405101098-FEBRIYAN-NUGROHO/modul-01/) |
+| 01 | [MODUL 01 HTML](./2405101098-FEBRIYAN-NUGROHO-5E/modul-01/) | [modul-01](./2405101098-FEBRIYAN-NUGROHO-5E/modul-01/) |
 | 02 | [MODUL 02 Semantic HTML](./modul-02/) | [modul-02](./modul-02/) |
 | 03 | [MODUL 03 Form HTML](./modul-03/) | [modul-03](./modul-03/) |
 
