@@ -6,7 +6,7 @@
 - Nama: Febriyan Nugroho
 - NIM: 2405101098
 - Kelas: 5E
-- Program Studi: Teknik INformatika
+- Program Studi: Teknik Informatika
 - Mata Kuliah: Pemrograman Web Dasar
 - Tahun Akademik: 2026
 
