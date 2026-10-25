@@ -1,2 +1,27 @@
 # 2405101098-5E
-Repository praktikum Pemrograman Web Dasar semester 5 kelas 5E.
+# Repository Praktikum Pemrograman Web Dasar
+
+## Identitas Mahasiswa
+
+- Nama: Febriyan Nugroho
+- NIM: 2405101098
+- Kelas: 5E
+- Program Studi: Teknik INformatika
+- Mata Kuliah: Pemrograman Web Dasar
+- Tahun Akademik: 2026
+
+## Deskripsi
+
+Repository ini berisi source code, dokumentasi,
+dan screenshot hasil praktikum Pemrograman Web Dasar
+selama satu semester.
+
+## Daftar Praktikum
+
+| Pertemuan | Topik | Source Code dan Screenshot |
+|---|---|---|
+| 01 | [MODUL 01 HTML](./pertemuan-01/) | [modul-01](./pertemuan-01/) |
+| 02 | [MODUL 02 Semantic HTML](./pertemuan-02/) | [modul-02](./pertemuan-02/) |
+| 03 | [MODUL 03 Form HTML](./pertemuan-03/) | [modul-03](./pertemuan-03/) |
+
+## Referensi
